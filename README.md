@@ -123,4 +123,6 @@ The schedule is configured through the `Schedule` section:
 
 - `Enabled` – Enables or disables scheduled execution.
 - `Days` – Days of the week using ISO numbering: 1 = Monday, 2 = Tuesday, ..., 7 = Sunday.
-- `Times` – One or more execution times in HHmm format. For example, `800` means 08:00, `1600` means 16:00, and `0` means
+- `Times` – One or more execution times in HHmm format. For example, `800` means 08:00, `1600` means 16:00, and `0` means 00:00.
+
+Multiple execution times can be configured. The scheduled task will run once at each configured time on the selected days.
