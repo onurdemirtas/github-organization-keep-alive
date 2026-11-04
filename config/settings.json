@@ -1,0 +1,25 @@
+{
+  "Organization": {
+    "Name": "YourOrganization",
+    "GitHubUrl": "https://github.com/YourOrganization",
+    "SsoUrl": "https://github.com/orgs/YourOrganization/sso",
+    "PrivateRepositoryUrl": "https://github.com/YourOrganization/your-private-repository"
+  },
+  "GitHub": {
+    "ProfileUrl": "https://github.com/settings/profile"
+  },
+  "Browser": {
+    "UserDataDirectory": "browser-data"
+  },
+  "Logging": {
+    "Enabled": true,
+    "Directory": "logs",
+    "FileName": "activity.log",
+    "Debug": false
+  },
+  "Schedule": {
+      "Enabled": true,
+      "Days": [1, 2, 3, 4, 5, 6, 7],
+      "Times": [800, 1600, 0]
+  }
+}

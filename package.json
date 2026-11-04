@@ -1,0 +1,16 @@
+{
+  "name": "github-organization-keep-alive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "automation/main.js",
+  "scripts": {
+    "start": "node automation/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.64.1"
+  }
+}

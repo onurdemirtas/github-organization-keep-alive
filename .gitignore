@@ -1,0 +1,17 @@
+# Browser profiles and authentication sessions
+browser-data/
+
+# Node.js dependencies
+node_modules/
+
+# Runtime logs
+logs/*.log
+
+# Temporary files
+*.tmp
+
+# Generated project export
+project-export.txt
+
+# User-specific settings
+config/settings.local.json
