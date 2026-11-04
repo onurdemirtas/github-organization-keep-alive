@@ -24,17 +24,7 @@ Note: This version is designed for compatibility with PowerShell 7. Windows Powe
 
 ## Installation
 
-Clone the repository and install dependencies:
-
-```bash
-npm install
-```
-
-Install the Playwright Chromium browser:
-
-```bash
-npx playwright install chromium
-```
+For a detailed step-by-step installation and configuration guide, see [SETUP.md](SETUP.md).
 
 ## Configuration
 
